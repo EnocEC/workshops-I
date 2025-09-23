@@ -1,0 +1,5 @@
+Diferencias encontradas al cargar ambas páginas
+
+Al recargar la página con el archivo PHP, la fecha y hora se actualizan dinámicamente, esto debido a que el código PHP es procesado en el servidor.
+
+Al recargar la página con el archivo HTML, la fecha y hora serán estáticas porque HTML no tiene la capacidad para tomar la fecha y hora actual, y además no se está utilizando PHP ni JavaScript.
